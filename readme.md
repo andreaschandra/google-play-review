@@ -2,6 +2,8 @@
 
 Doing a sentimient anlaysis for one of indonesian app on google play store
 
+The dataset can be downloaded [here](https://drive.google.com/open?id=15ijuoBID32J2Sp3IFM1XRcrYRbOxB6DC)
+
 Train label distribution|Test label distribution
 ---|---
 ![train_distribution](train_dist.png) | ![test_distribution](test_dist.png)
