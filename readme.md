@@ -1,6 +1,6 @@
 ## Google Play Review
 
-Doing a sentimient anlaysis for one of indonesian app on google play store
+Doing a sentiment analysis for one of indonesian app on google play store
 
 The dataset can be downloaded [here](https://drive.google.com/open?id=15ijuoBID32J2Sp3IFM1XRcrYRbOxB6DC)
 
@@ -39,4 +39,4 @@ We got:
 - precision : 96%
 - recall    : 95%
 
-Thank you for reading
+Thank you for reading!
